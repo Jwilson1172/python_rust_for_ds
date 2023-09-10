@@ -23,4 +23,4 @@ if you are looking to extend your rust with the data science functions that have
 - [ ] building a crate for rust development of python friendly function bindings.
 - [ ] setup CI/CD to handle testing and release building
 - [ ] setup contrib tracking, github actions for bug and issue tracking
-- [ ] setup kaban board for feature/issue tracking.
+- [ ] setup project board for feature/issue tracking.
