@@ -1,0 +1,7 @@
+name: ds
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - pandas
+  - pip
